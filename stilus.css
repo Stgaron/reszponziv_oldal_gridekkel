@@ -72,14 +72,7 @@ img {
 @media screen and (max-width: 500px ) {
     article {
         display: grid;
-        grid-template-columns: 1fr 1fr;
+        grid-template-columns: 1fr;
     }
 }
-
-
-
-
-
-
-
 }
